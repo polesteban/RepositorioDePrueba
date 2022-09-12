@@ -27,5 +27,12 @@ cywfcd8fc67dcw67ecf67ecfdwhdcwfvudcfvdcuicdw
       </head>
 </html>
 ```
-[link](https://www.google.es/?hl=ca)
+[GOOGLE](https://www.google.es/?hl=ca)
 [mi colega](https://github.com/polesteban/RepositorioDePrueba/blob/main/Teletubby_Smokes.webp)
+
+| Titulo | Titulo 2 | Titulo 3 |
+|--------|:----------:|---------:|
+|Nombre | Apellido| Apellido 2 |
+|Nombre 2|Apellido 3| Apellido 4|
+|Col 3  | está alineada| derecha|
+|Col 2  | esta alineada| centro |
