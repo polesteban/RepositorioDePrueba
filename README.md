@@ -13,4 +13,6 @@ Primer repositorio GitHub
 Lista ordenada
 1. Paso **1**
 2. Paso **2**
-3. Paso **3**
+..* Paso 1
+..* Paso 2
+4. Paso **3**
